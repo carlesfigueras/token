@@ -1,29 +1,31 @@
-[
-    {
-        "id": "0",
-        "name": "Carson City",
-        "description": "This token represents Carson City Board Game",
-        "image": "https://boardgamegeek.com/image/577030/carson-city"
-    },
+{
+    "BGT": [
+        {
+            "id": "0",
+            "name": "Carson City",
+            "description": "This token represents Carson City Board Game",
+            "image": "https://boardgamegeek.com/image/577030/carson-city"
+        },
 
-    {
-        "id": "1",
-        "name": "On Mars",
-        "description": "This token represents On Mars Board Game",
-        "image": "https://boardgamegeek.com/image/4357658/mars"
-    },
+        {
+            "id": "1",
+            "name": "On Mars",
+            "description": "This token represents On Mars Board Game",
+            "image": "https://boardgamegeek.com/image/4357658/mars"
+        },
 
-    {
-        "id": "2",
-        "name": "Food Chain Magnate",
-        "description": "This token represents Food Chain Magnate Board Game",
-        "image": "https://boardgamegeek.com/image/2649434/food-chain-magnate"
-    },
+        {
+            "id": "2",
+            "name": "Food Chain Magnate",
+            "description": "This token represents Food Chain Magnate Board Game",
+            "image": "https://boardgamegeek.com/image/2649434/food-chain-magnate"
+        },
 
-    {
-        "id": "3",
-        "name": "Lewis & Clark",
-        "description": "This token represents Lewis & Clark Board Game",
-        "image": "https://boardgamegeek.com/image/5375937/lewis-clark-expedition"
-    }
-]
+        {
+            "id": "3",
+            "name": "Lewis & Clark",
+            "description": "This token represents Lewis & Clark Board Game",
+            "image": "https://boardgamegeek.com/image/5375937/lewis-clark-expedition"
+        }
+    ]
+}
